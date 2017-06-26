@@ -8,7 +8,7 @@ permalink: /about/
 
 ## Education
 
-+ **Masters' in Computer Science**, *The University of Texas at Dallas*, *USA*
++ **Masters' in Computer Science**, [*The University of Texas at Dallas*](https://engineering.utdallas.edu/), *USA*
 + **Bachelor of Technology in Computer Science**, *National Institute of Technology Raipur*, *India*
 
 ## Roles
