@@ -4,24 +4,25 @@ title: About
 permalink: /about/
 ---
 
+
+
 ## Education
 
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
+* Masters' in Computer Science, The University of Texas at Dallas
+* Bachelor of Technology in Computer Science, National Institute of Technology Raipur, India
 
 ## Roles
 
-Founder, ABC Organisation
+Software Engineer
 
 ## Skills
 
-* **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 3** - `Skill` / `Skill` / `Skill`
-* **Skill 4** - `Skill` / `Skill` / `Skill` 
-* **Skill 5** - `Skill`
-* **Skill 6** - `Skill` / `Skill` 
+* **Big Data** - `Hadoop` / `Spark` / `Map Reduce` / `Pig`
+* **Web Development** - `JSP` / `Servlets` / `Django` / `Struts` / `Hibernate` / `HTML` / `Javascript` / `Tomcat` 
+* **Databases** - `MongoDB` / `MySQL` / `PostgreSQL`
+* **Game Development** - `Unity`  
+* **Languages** - `Java` / `Python` / `Scala` / `Linux and Unix Shell Scripting`
+* **Other** - `SBT` / `Ant` / `Git`
     
     
 ## Achievements
@@ -46,4 +47,4 @@ Founder, ABC Organisation
 
 ## Contact me
 
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+[bikrammjit.mandal@gmail.com](mailto:bikrammjit.mandal@gmail.com)
