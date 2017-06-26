@@ -13,7 +13,8 @@ permalink: /about/
 
 ## Roles
 
-Software Engineer
++ Software Engineer, [Amdocs Inc.](https://www.amdocs.com/) June 2013 to July 2014
++ Graduate Student Developer, [Big Data Management and Analytics Lab](https://engineering.utdallas.edu/) June 2016 to September 2016
 
 ## Skills
 
