@@ -1,15 +1,20 @@
 ---
 layout: post
-title: The Eternal Lorem Ipsum Placeholder Text Here
-author: Author Name
+title: Using Jekyll to setup a sassy Blog
+author: Bikramjit
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. 
+It is interesting how blogging has become so integral part of our lives and a representation of who we are, who we can be and more.
+In these times of excessive social presence and activity, do not miss out on the idea of a Personal space, just like this one !
+It's self-empowering !
 
-## The Eternal Lorem Ipsum? 
+Trust me this will be fast, just a set of programs and commands, you don't need to be a compsci or IT insider to do this !
+
+## Jekyll
 -----
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
+Jekyll is a tool for creating sassy web pages and designs fast. It uses a beautiful and famous programming language called Ruby in the back.
+It's one of the coolest things Ruby has led to the creation of. 
+So, you can either read more about [Jekyll](), or follow me down ...
 
-Nam maximus tempor feugiat. Mauris tristique imperdiet nulla id egestas. Proin eget lobortis magna. Duis consectetur nibh at elit viverra congue. Ut eu turpis enim. Suspendisse laoreet, diam sed consequat sodales, felis dolor accumsan justo, nec scelerisque mi sem quis dolor. Etiam ornare venenatis massa, a suscipit ex. Ut quis lectus id nibh mattis rutrum. Nunc vel cursus eros, at blandit mi. Vivamus ac posuere libero.
 
