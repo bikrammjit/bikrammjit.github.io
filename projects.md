@@ -26,6 +26,20 @@ permalink: /projects/
 
 ***
 
+### [Health and Recipes Share and Micro-Blogging web-app (Java, JSP, HTML, Javascript, MySQL)](https://github.com/bikdroid/StuffIt) 
++ Worked in a team of 3, to develop a recipe sharing/ blogging app using **Java** technologies and **Agile** UP principles.
++ Implementation of *Adapter pattern*, *Factory pattern* and *Singleton pattern* according to strict OOP principles.
++ Project was developed in 3 iterations following **TDD** and *Object Oriented Design patterns*. Technologies used were **Java**, **JSP/Servlet**, **MySQL**.
+
+***
+
+### [Website Fingerprinting Counter attack – Big Data (Python, Numpy, Hadoop, full ETL pipeline)](https://github.com/bikdroid/Website-Fingerprinting---CS-6350---UT-Dallas-Spring-2016) 
++ Worked alongside a PhD researcher to develop software to counterattack phishing attackers through machine learning and analytics.
++ Implemented **Python** modules for ML analytics, which adapts the *On-line learning* system to the best Ensemble model.
++ We achieved an average 70% accuracy at best using our Ensemble of classifications. Wrote *1000+ lines of Python code*.
+
+
+***
 ## Other Projects
 
 ### This Could Be Another Project Name
