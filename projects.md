@@ -42,9 +42,12 @@ permalink: /projects/
 ***
 ## Other Projects
 
-### This Could Be Another Project Name
+### [Online Shopping Experience in Virtual Reality, Money2020, Las Vegas (Python, Java, PHP, Speech Recognition, IoT)](#)
++ Developed a one-stop shopping and payment application VRVR based in Virtual Reality and IoT, in a Team of 4.
++ Implemented integration of Speech to Text conversion and vice-versa module using Python.
++ Implemented Python module for text analysis from speech text and recognizing the task, sending the command for the task. 
++ Built a speech recognizing system, using Jasper API to assist in the shopping experience.
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
    
 ### This Could Be Yet Another Project Name
 
