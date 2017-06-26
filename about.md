@@ -8,8 +8,8 @@ permalink: /about/
 
 ## Education
 
-* Masters' in Computer Science, The University of Texas at Dallas
-* Bachelor of Technology in Computer Science, National Institute of Technology Raipur, India
++ **Masters' in Computer Science**, *The University of Texas at Dallas*, *USA*
++ **Bachelor of Technology in Computer Science**, *National Institute of Technology Raipur*, *India*
 
 ## Roles
 
@@ -28,21 +28,14 @@ Software Engineer
 ## Achievements
 
 
-* [**This is my first achievement**](#) 
+* [**Aspirations2020 Infosys, 2012 Regional Finalist**](#) 
    
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+   Selected for the Regional finals for the Aspirations2020 coding competition at the Infosys campus.
 
 ***
 
-* [**This is my second achievement**](#) 
-
-    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
 
 ***
-
-* [**This is my third achievement**](#) 
-
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
 
 
 ## Contact me
