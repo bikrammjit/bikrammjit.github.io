@@ -4,15 +4,25 @@ title: Projects
 permalink: /projects/
 ---
 
-### [Project 1](https://github.com/bikdroid) 
-Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+### [Data Retrieval and Mining Tool - Independent Research Study (Summer 2016)](https://github.com/bikdroid/UTDrepo) 
+Developed a project for mining information on students and alumnus from data collected from social and online portals.
+Implemented RESTful services in **Python**, **Django** and **MongoDB** for *data parsing* module, *search*, *login*, *authorization*, *advanced search* module.
+Implemented internal controller modules for authorizations, database operations and API integrations.
 
 ***
 
-### [Project 2](https://github.com/bikdroid)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+### [Search Engine (Web based service) (Java, JSP, Lucene, SOLR, Nutch)](https://bikrammjit.bikdroid.io)
+Developed a search engine over 120,000 documents relevant to automobiles (brands, sales, blogs, news).
+The documents were crawled and stored using Nutch 1.4
+The indexing system was implemented using SOLR 4.10 platform. Implemented PageRank with TFIDF and Okapi weighting scheme
+Query time relevance was also implemented to test the effect of HITS algorithm on the results, which clearly showed improvement
 
-Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+***
+
+### [Data Retrieval and Mining Tool - Independent Research Study (Summer 2016)](https://github.com/bikdroid/UTDrepo) 
+Developed a project for mining information on students and alumnus from data collected from social and online portals.
+Implemented RESTful services in **Python**, **Django** and **MongoDB** for *data parsing* module, *search*, *login*, *authorization*, *advanced search* module.
+Implemented internal controller modules for authorizations, database operations and API integrations.
 
 ***
 
